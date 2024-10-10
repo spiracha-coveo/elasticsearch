@@ -7,6 +7,7 @@
 This quick start guide is a hands-on introduction to the fundamental concepts of Elasticsearch: <<documents-indices,indices, documents and field type mappings>>.
 
 You'll learn how to create an index, add data as documents, work with dynamic and explicit mappings, and perform your first basic searches.
+Hi
 
 [TIP]
 ====
